@@ -2,7 +2,7 @@
 
 🎓 2nd Year **Computer Science Engineering** student<br>
 💻 Working primarily with **Python, Django, and MySQL**<br>
-📊 Skilled in Data Analysis & Preprocessing using Python and Pandas
+📊 Skilled in Data Analysis & Preprocessing using Python and Pandas<br>
 🚀 Focused on improving problem-solving skills and building strong fundamentals<br>
 
 ---
