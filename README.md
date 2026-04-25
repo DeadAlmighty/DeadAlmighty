@@ -102,13 +102,18 @@ A GUI-based Snake & Ladder game built in Python with Tkinter — an early projec
 
 ## What I'm building next
 
-- Adding filter controls and a REST API layer to SmokeStat using Django REST Framework
-- Completing the **Quantium Data Analytics** and **BCG Data Science** job simulations (Forage)
-- Exploring DBSCAN and Random Forest as upgrades to the Mall Analytics pipeline
-- Integrating real Indian health survey datasets (NFHS / GSHS) into SmokeStat
+- Expanding SmokeStat with real Indian health survey datasets (NFHS / GSHS)
+- Exploring the intersection of **healthcare data and technology** — 
+  interested in projects that make medical insights accessible and actionable
+- Completing Forage job simulations in Data Analytics
 
 ---
 
 <p align="center">
   <sub>📍 Pune, Maharashtra &nbsp;·&nbsp; Open to internships in Data Analytics & Backend Development</sub>
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <p>Building communities, connecting people, and creating impact through technology.</p>
+  <p>© 202 Parth Ahuja. All rights reserved.</p>
+</div>
