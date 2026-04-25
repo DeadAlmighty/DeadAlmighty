@@ -109,11 +109,12 @@ A GUI-based Snake & Ladder game built in Python with Tkinter — an early projec
 
 ---
 
-<p align="center">
-  <sub>📍 Pune, Maharashtra &nbsp;·&nbsp; Open to internships in Data Analytics & Backend Development</sub>
-</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   <p>Building communities, connecting people, and creating impact through technology.</p>
-  <p>© 202 Parth Ahuja. All rights reserved.</p>
+  <p>© 2026 Parth Ahuja. All rights reserved.</p>
 </div>
+<p align="center">
+  <sub>📍 Pune, Maharashtra &nbsp;·&nbsp; Open to internships in Data Analytics & Backend Development</sub>
+</p>
