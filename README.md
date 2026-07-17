@@ -90,15 +90,7 @@ A GUI-based Snake & Ladder game built in Python with Tkinter — an early projec
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeadAlmighty&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadAlmighty&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
----
 
 ## What I'm building next
 
