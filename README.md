@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a second-year CS student who builds data-heavy backend systems and analytics platforms. My work sits at the intersection of **data engineering, statistical modeling, and full-stack Python development** — I care about making data actually useful, not just collected.
+I'm a Third-year CS student who builds data-heavy backend systems and analytics platforms. My work sits at the intersection of **data engineering, statistical modeling, and full-stack Python development** — I care about making data actually useful, not just collected.
 
 Currently focused on deepening my knowledge of **SQL internals, Django REST, and applied ML pipelines**. Open to Data Analyst and Backend Developer internship opportunities.
 
